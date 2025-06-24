@@ -1,6 +1,6 @@
-# 🚁 Helicopter Assembly – CAD Design (Fusion 360)
+# 🚁 Helicopter Assembly – CAD Design (Onshape)
 
-This project showcases a mechanical assembly of a small helicopter designed using **CAD software** (Onshape). It includes an exploded view, Bill of Materials (BOM), suitable for mechanical drafting and production documentation.
+This project showcases a mechanical assembly of a small helicopter designed using **CAD software** (Onshape). It includes an Assembly and Bill of Materials (BOM), suitable for mechanical drafting and production documentation.
 
 ---
 
