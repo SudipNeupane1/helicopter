@@ -31,9 +31,8 @@ This project showcases a mechanical assembly of a small helicopter designed usin
 
 ## 📁 Files
 
-- `drawings/Assembly_Helicopter_Drawing_1.pdf` – Complete CAD drawing including views and BOM
-- `screenshots/` – Optional renders or views of the CAD model
 
+<img src="./screenshot/Assembly_Helicopter_Drawing_1_page-0001.jpg">
 ---
 
 ## 🛠 Tools Used
